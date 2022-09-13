@@ -7,6 +7,7 @@ public class NewMove : MonoBehaviour
   
     float velX;
     float velZ;
+    //....
 
     CharacterController controller;
 
