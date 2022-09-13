@@ -11,7 +11,7 @@ public class PlayerMove : MonoBehaviour
 
     Vector3 move;
 
-    const float speed=0.1f;
+    const float speed=0.11f;
 
     // Start is called before the first frame update
     void Awake()
